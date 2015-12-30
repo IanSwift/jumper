@@ -20,7 +20,7 @@ public class BreweryResponse extends Model implements BreweryInterface, Serializ
 
     @Override
     public void setName(String name) {
-        data.get(0).getName();
+        data.get(0).setName(name);
     }
 
     @Override
