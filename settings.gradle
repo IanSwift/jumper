@@ -1,0 +1,1 @@
+include ':breweryDemo', ':jumper', ':core'

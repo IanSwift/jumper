@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_a_new_brewery">Get a new brewery!</string>
+</resources>
